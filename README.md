@@ -63,7 +63,7 @@ Deep Dive into REffective-Java
 
 ### 7장 람다와 스트림
 42. [익명 클래스보다 람다를 사용하라 - 현재](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%207/item-42/익명%20클래스보다는%20람다를%20사용하라.md)
-43. 람다보다 메서드 참조를 사용하라
+43. [람다보다 메서드 참조를 사용하라 - 현재]
 44. 표준 함수형 인터페이스를 사용하라
 45. 스트림은 주의해서 사용하라
 46. 스트림에서는 부작용 없는 함수를 사용하라
