@@ -70,7 +70,7 @@ Deep Dive into REffective-Java
 48. [스트림 병렬화는 주의해서 적용하라 - 민우](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%207/item-48/%EC%8A%A4%ED%8A%B8%EB%A6%BC%20%EB%B3%91%EB%A0%AC%ED%99%94%EB%8A%94%20%EC%A3%BC%EC%9D%98%ED%95%B4%EC%84%9C%20%EC%A0%81%EC%9A%A9%ED%95%98%EB%9D%BC.md)
 
 ### 8장 메서드
-49. 매개변수 유효성을 검사하라
+49. 매개변수가 유효한지 검사하라 - 민우
 50. 적시에 방어적 복사본을 만들라
 51. 메서드 시그니처를 신중히 설계하라
 52. 다중정의는 신중히 사용하라
