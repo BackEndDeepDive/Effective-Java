@@ -70,11 +70,11 @@ Deep Dive into REffective-Java
 48. [스트림 병렬화는 주의해서 적용하라 - 민우](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%207/item-48/%EC%8A%A4%ED%8A%B8%EB%A6%BC%20%EB%B3%91%EB%A0%AC%ED%99%94%EB%8A%94%20%EC%A3%BC%EC%9D%98%ED%95%B4%EC%84%9C%20%EC%A0%81%EC%9A%A9%ED%95%98%EB%9D%BC.md)
 
 ### 8장 메서드
-49. 매개변수가 유효한지 검사하라 - 민우
-50. 적시에 방어적 복사본을 만들라
+49. [매개변수가 유효한지 검사하라 - 민우](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%208/item-49/%EB%A7%A4%EA%B0%9C%EB%B3%80%EC%88%98%EA%B0%80%20%EC%9C%A0%ED%9A%A8%ED%95%9C%EC%A7%80%20%EA%B2%80%EC%82%AC%ED%95%98%EB%9D%BC.md)
+50. [적시에 방어적 복사본을 만들라 - 장우](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%208/item-50/%EC%A0%81%EC%8B%9C%EC%97%90%20%EB%B0%A9%EC%96%B4%EC%A0%81%20%EB%B3%B5%EC%82%AC%EB%B3%B8%EC%9D%84%20%EB%A7%8C%EB%93%A4%EC%96%B4%EB%9D%BC.md)
 51. [메서드 시그니처를 신중히 설계하라 - 현재](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%208/item-51/메서드%20시그니처를%20신중히%20설계하라.md)
-52. 다중정의는 신중히 사용하라
-53. 가변인수는 신중히 사용하라 - 민우
+52. [다중정의는 신중히 사용하라 - 장우](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%208/item-52/%EB%8B%A4%EC%A4%91%20%EC%A0%95%EC%9D%98%EB%8A%94%20%EC%8B%A0%EC%A4%91%ED%9E%88%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC.md)
+53. [가변인수는 신중히 사용하라 - 민우](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%208/item-53/%EA%B0%80%EB%B3%80%EC%9D%B8%EC%88%98%EB%8A%94%20%EC%8B%A0%EC%A4%91%ED%9E%88%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC.md)
 54. [null이 아닌, 빈 컬렉션이나 배열을 반환하라 - 현재](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%208/item-54/null이%20아닌,%20빈%20컬렉션이나%20배열을%20반환하라.md)
 55. 옵셔널 반환은 신중히 하라
 56. 공개 API 요소에는 항상 문서화 주석을 작성하라
