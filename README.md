@@ -72,10 +72,10 @@ Deep Dive into REffective-Java
 ### 8장 메서드
 49. 매개변수 유효성을 검사하라
 50. 적시에 방어적 복사본을 만들라
-51. 메서드 시그니처를 신중히 설계하라
+51. [메서드 시그니처를 신중히 설계하라 - 현재](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%208/item-51/메서드%20시그니처를%20신중히%20설계하라.md)
 52. 다중정의는 신중히 사용하라
 53. 가변인수는 신중히 사용하라
-54. null이 아닌, 빈 컬렉션이나 배열을 반환하라
+54. [null이 아닌, 빈 컬렉션이나 배열을 반환하라 - 현재](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%208/item-54/null이%20아닌,%20빈%20컬렉션이나%20배열을%20반환하라.md)
 55. 옵셔널 반환은 신중히 하라
 56. 공개 API 요소에는 항상 문서화 주석을 작성하라
 
